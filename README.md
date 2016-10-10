@@ -1,8 +1,9 @@
 # Raspberry Pi
 
-File Transfer to Raspberry Pi
+Blog
 ==============
 * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
+* [登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
  
 Execute
 ==============
