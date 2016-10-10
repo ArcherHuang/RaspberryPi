@@ -13,6 +13,10 @@ Execute
 $ python fileName.py
 ```
 
+List of blogs
+==============
+* https://github.com/ArcherHuang/MyBlog
+
 License
 ==============
 
