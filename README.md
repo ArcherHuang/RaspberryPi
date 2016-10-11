@@ -1,5 +1,7 @@
 # Raspberry Pi
 
+![]
+
 Blog
 ==============
 * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
