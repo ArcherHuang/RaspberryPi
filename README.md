@@ -7,9 +7,9 @@ File / Code
 
 |No | Name  | Comment  | 
 |---|---|---|
-|  1 |   |  |
-|  2 |   |  |
-|  3 |   |  |
+|  1 | raspberryPi_dht_lcd.py |  |
+|  2 | raspberryPi_dht_WoTCity.py |  |
+|  3 | get_data_from_WoTCity.py |  |
 |  4 |   |  |
 |  5 |   |  |
 |  6 |   |  |
