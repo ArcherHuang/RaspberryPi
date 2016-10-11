@@ -1,6 +1,6 @@
 # Raspberry Pi
 
-![]
+![Imgur](http://i.imgur.com/9lOMMCU.png)
 
 Blog
 ==============
