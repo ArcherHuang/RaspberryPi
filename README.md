@@ -24,9 +24,14 @@ Blog
 Execute
 ==============
 
-- execute python code
+- execute Python Code
 ```bash
 $ python fileName.py
+```
+
+- execute Shell Script
+```bash
+$ sh fileName.sh
 ```
 
 List of blogs
