@@ -10,7 +10,7 @@ Code
 |  1 | raspberryPi_dht_lcd.py | 將溫濕度資訊顯示於 LCD |
 |  2 | raspberryPi_dht_WoTCity.py | 將溫濕度資訊傳送到 WoT.City |
 |  3 | get_data_from_WoTCity.py | 從 WoT.City 取得溫溼度資訊 |
-|  4 |   |  |
+|  4 | raspberryPi_dht_Firebase.py | 將溫濕度資訊傳送到 Google Firebase |
 |  5 |   |  |
 |  6 |   |  |
 |  7 |   |  |
