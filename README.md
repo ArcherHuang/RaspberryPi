@@ -26,12 +26,13 @@ Execute
 
 - execute Python Code
 ```bash
-$ python fileName.py
+$ python Python-Name-Here.py
 ```
 
 - execute Shell Script
 ```bash
-$ sh fileName.sh
+$ sh Script-Name-Here.sh
+$ ./Script-Name-Here.sh
 ```
 
 List of blogs
