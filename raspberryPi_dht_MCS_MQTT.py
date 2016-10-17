@@ -1,9 +1,24 @@
+# **************************************************************************************************************************
+# Version:     2016.10.17                                                                                                  #
+# Author:      Archer Huang                                                                                                #
+# License:     MIT                                                                                                         #
+# Description: Raspberry Pi + Send Data To MCS                                                                      #
+# **************************************************************************************************************************
+
+#**************************************************** 
+# Import Package                                                                           
+#****************************************************
+
 import paho.mqtt.client as mqtt
 import json
 import sys
 sys.path.append('/home/pi/rpi/code/Package')
 import grovepi
 from grove_rgb_lcd import *
+
+#**************************************************** 
+# Set Pin No, MediaTek Cloud Sandbox (MCS) Key                                                                          
+#**************************************************** 
 
 sensor = 4 
 blue = 0    # The Blue colored sensor.
@@ -19,8 +34,16 @@ MQTT_ALIVE = 60
 MQTT_TOPIC1 = "mcs/" + deviceId + "/" + deviceKey + "/" + dataChnId1  
 MQTT_TOPIC1 = "mcs/" + deviceId + "/" + deviceKey + "/" + dataChnId2
 
+#**************************************************** 
+# Set MediaTek Cloud Sandbox (MCS) Connection                                                   
+#**************************************************** 
+
 mqtt_client = mqtt.Client()  
 mqtt_client.connect(MQTT_SERVER, MQTT_PORT, MQTT_ALIVE) 
+
+#**************************************************** 
+# Publish MediaTek Cloud Sandbox (MCS)                                                  
+#**************************************************** 
 
 while True:
 	[temp,humidity] = grovepi.dht(sensor,blue)  
