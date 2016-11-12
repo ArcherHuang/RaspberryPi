@@ -16,7 +16,7 @@
 
 ## 【 檔案說明 】
 
-| 編號 | 資料夾 |  檔案名稱 |
+| 編號 | 檔案名稱 |  說明 |
 |---|---|---|
 | 1 | get_data_from_MCS.py | 從 MCS 取得溫濕度資料 |
 | 2 | get_data_from_WoTCity.py | 從 WoT.City 取得溫濕度資料 |
