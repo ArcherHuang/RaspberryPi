@@ -18,11 +18,17 @@
 
 | 編號 | 資料夾 |  檔案名稱 |
 |---|---|---|
-| 1 | raspberryPi_dht_lcd.py | 將溫濕度資訊顯示於 LCD |
-| 2 | raspberryPi_dht_WoTCity.py | 將溫濕度資訊傳送到 WoT.City |
-| 3 | get_data_from_WoTCity.py | 從 WoT.City 取得溫溼度資訊 |
-| 4 | raspberryPi_dht_Firebase.py | 將溫濕度資訊傳送到 Google Firebase |
-
+| 1 | get_data_from_MCS.py | 從 MCS 取得溫濕度資料 |
+| 2 | get_data_from_WoTCity.py | 從 WoT.City 取得溫濕度資料 |
+| 3 | raspberryPi_dht_AWS_IoT.py | 將溫濕度資料傳送到 AWS IoT |
+| 4 | raspberryPi_dht_Firebase.py | 將溫濕度資料傳送到 Google Firebase |
+| 5 | raspberryPi_dht_IBM_Bluemix_Publish.py | 將溫濕度資料傳送到 IBM Bluemix |
+| 6 | raspberryPi_dht_IBM_Bluemix_Subscribe.py | 從 IBM Bluemix 取得溫濕度資料 |
+| 7 | raspberryPi_dht_MCS_API.py | 將溫濕度資料透過 API 傳送到 MCS |
+| 8 | raspberryPi_dht_MCS_MQTT.py | 將溫濕度資料透過 MQTT 傳送到 MCS |
+| 9 | raspberryPi_dht_ThingSpeak.py | 將溫濕度資料傳送到 ThingSpeak |
+| 10 | raspberryPi_dht_WoTCity.py | 將溫濕度資料傳送到 WoT.City |
+| 11 | raspberryPi_dht_lcd.py | 將溫濕度資料顯示於 LCD |
 
 ## 【 Board and Sensor 】
 
