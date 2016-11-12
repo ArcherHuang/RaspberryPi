@@ -85,8 +85,7 @@ $ python Python-Name-Here.py
 
  * execute Shell Script
 ```bash
-$ sh Script-Name-Here.sh
-$ ./Script-Name-Here.sh
+$ sh Script-Name-Here.sh 或 ./Script-Name-Here.sh
 ```
 
 ## 【 JSON Tools 】
