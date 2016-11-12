@@ -76,14 +76,14 @@
       * 登入（在本地端電腦的終端機執行） ➙ ```ssh root@Raspberry Pi 的IP```
       * 傳送檔案（在本地端電腦的終端機執行） ➙ ```scp 在電腦中的檔案位置 root@Raspberry Pi 的IP:要傳送到 Raspberry Pi 中的位置```
 
-## 【 Execute】
+## 【 Execute 】
 
- * execute Python Code
+ * 執行 Python Code
 ```bash
 $ python Python-Name-Here.py
 ```
 
- * execute Shell Script
+ * 執行 Shell Script
 ```bash
 $ sh Script-Name-Here.sh 或 ./Script-Name-Here.sh
 ```
