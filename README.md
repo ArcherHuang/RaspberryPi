@@ -66,14 +66,15 @@
  * Windows 作業系統
    *  登入
       * Windows 端
-        * [Putty](https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)
+        * [使用 Putty](https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)
    *  傳送檔案 
       * Windows 端
-        * [FileZilla Client](https://filezilla-project.org/)
+        * [使用 FileZilla Client](https://filezilla-project.org/)
 
  * macOS 作業系統
-   *  登入 / 傳送檔案（本地端到 Raspberry Pi 端）- 終端機
+   *  登入（本地端到 Raspberry Pi 端）- 終端機
       * 登入（在本地端電腦的終端機執行） ➙ ```ssh root@Raspberry Pi 的IP```
+   *  傳送檔案（本地端到 Raspberry Pi 端）- 終端機
       * 傳送檔案（在本地端電腦的終端機執行） ➙ ```scp 在電腦中的檔案位置 root@Raspberry Pi 的IP:要傳送到 Raspberry Pi 中的位置```
 
 ## 【 Execute 】
