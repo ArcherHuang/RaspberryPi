@@ -26,11 +26,10 @@
 
 ## 【 Board and Sensor 】
 
-* [LinkIt Smart 7688 Duo](https://www.seeedstudio.com/LinkIt-Smart-7688-Duo-p-2574.html)
-* [Arduino Breakout for LinkIt Smart 7688 Duo](https://www.seeedstudio.com/Arduino-Breakout-for-LinkIt-Smart-7688-Duo-p-2576.html)
+* [Raspberry Pi 3 Model B](https://www.seeedstudio.com/Raspberry-Pi-3-Model-B-p-2625.html)
+* [GrovePi+ ](https://www.seeedstudio.com/GrovePi%2B-p-2241.html)
 * [Grove - Temperature & Humidity Sensor](https://www.seeedstudio.com/Grove-Temp%26Humi-Sensor-p-745.html)
-* [Grove - Dust Sensor](https://www.seeedstudio.com/Grove-Dust-Sensor-p-1050.html)
-* [Grove - OLED Display 1.12"](https://www.seeedstudio.com/Grove-OLED-Display-1.12%22-p-824.html)
+* [Grove - LCD RGB Backlight](https://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html)
 
 ## 【 Integrated Development Environment - IDE 】
 
