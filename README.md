@@ -29,6 +29,9 @@
 | 9 | raspberryPi_dht_ThingSpeak.py | 將溫濕度資料傳送到 ThingSpeak |
 | 10 | raspberryPi_dht_WoTCity.py | 將溫濕度資料傳送到 WoT.City |
 | 11 | raspberryPi_dht_lcd.py | 將溫濕度資料顯示於 LCD |
+| 12 | /Script/install.sh | 前置安裝作業 |
+| 13 | /Package/grove_rgb_lcd.py | Grove RGB LCD Library |
+| 14 | /Package/grovepi.py | Grove Pi Library |
 
 ## 【 Board and Sensor 】
 
