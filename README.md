@@ -14,7 +14,7 @@
 | MQTT | MediaTek Cloud Sandbox (MCS)、AWS IoT、IBM Bluemix IoT Platform |
 | WebSocket | WoT.City |
 
-## 【 檔案說明 】
+## 【 檔案說明 】     
 
 | 編號 | 檔案名稱 |  說明 |
 |---|---|---|
